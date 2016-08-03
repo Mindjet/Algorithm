@@ -2,10 +2,16 @@ package leetcode;
 
 import java.util.Scanner;
 
+
 /**
- * 该程序用来反转单词的元音字母
- * @author zyd
- *
+ *  Example 1:
+	Given s = "hello", return "holle".
+
+	Example 2:
+	Given s = "leetcode", return "leotcede".
+
+	Note:
+	The vowels does not include the letter "y".
  */
 
 public class ReverseVowels {

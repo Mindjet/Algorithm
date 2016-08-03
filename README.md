@@ -1,5 +1,5 @@
 ## Introduction
-Here I implement some example from [nowcoder.com](http://www.nowcoder.com/) and [leetcode.com](http://www.leetcode.com).
+Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and [leetcode.com](http://www.leetcode.com).
 
 
 
@@ -16,3 +16,5 @@ Here I implement some example from [nowcoder.com](http://www.nowcoder.com/) and 
 
 ### Leetcode.com
 * ReverseVowels
+* Linked-list Cycle I
+* Linked-list Cycle II
