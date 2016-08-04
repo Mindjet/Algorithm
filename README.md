@@ -6,7 +6,7 @@ Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and
 
 
 ### Nowcoder.com
-*  Prime	*(16.8.3)*
+*  [Prime](https://github.com/Mindjet/Algorithm/blob/master/src/nowcoder/Prime.java)			*(16.8.3)*
 
 
 
@@ -15,8 +15,9 @@ Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and
 
 
 ### Leetcode.com
-* ReverseVowels	*(16.8.3)*
-* Linked-list Cycle I	*(16.8.3)*
-* Linked-list Cycle II	*(16.8.3)*
-* Nim Game	*(16.8.4)*
-* Sum of 2 Integer	*(16.8.4)*
+* [ReverseVowels](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/ReverseVowels.java)		*(16.8.3)*
+* [Linked-list Cycle I](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Linked_list_cycle_1.java)	*(16.8.3)*
+* [Linked-list Cycle II](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Linked_list_cycle_2.java)	*(16.8.3)*
+* [Nim Game](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Nim_game.java)		*(16.8.4)*
+* [Sum of 2 Integer](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Sum_of_2_Integer.java)	*(16.8.4)*
+* [Add 2 Number](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Add_2_Numbers.java)	*(16.8.4)*
