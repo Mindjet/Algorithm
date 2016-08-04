@@ -6,7 +6,7 @@ Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and
 
 
 ### Nowcoder.com
-*  Prime	*16.8.3*
+*  Prime	*(16.8.3)*
 
 
 
@@ -15,6 +15,8 @@ Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and
 
 
 ### Leetcode.com
-* ReverseVowels	*16.8.3*
-* Linked-list Cycle I	*16.8.3*
-* Linked-list Cycle II	*16.8.3*
+* ReverseVowels	*(16.8.3)*
+* Linked-list Cycle I	*(16.8.3)*
+* Linked-list Cycle II	*(16.8.3)*
+* Nim Game	*(16.8.4)*
+* Sum of 2 Integer	*(16.8.4)*
