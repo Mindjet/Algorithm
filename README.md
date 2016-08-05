@@ -21,3 +21,6 @@ Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and
 * [Nim Game](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Nim_game.java)		*(16.8.4)*
 * [Sum of 2 Integer](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Sum_of_2_Integer.java)	*(16.8.4)*
 * [Add 2 Number](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Add_2_Numbers.java)	*(16.8.4)*
+* [Add Digits](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Add_Digits.java)		*(16.8.5)*
+* [Happy Number](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Happy_Number.java)	*(16.8.5)*
+* [Max Depth of Binary Tree](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Max_Depth_of_Binary_Tree.java)	*(16.8.5)*

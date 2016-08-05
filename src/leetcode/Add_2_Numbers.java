@@ -34,7 +34,7 @@ public class Add_2_Numbers {
 			if (head.next==null) {
 				System.out.print(head.val);
 			}else{
-				System.out.print(head.val+"--> ");
+				System.out.print(head.val+" --> ");
 			}
 			head = head.next;
 			
