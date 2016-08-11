@@ -18,6 +18,10 @@ public class Max_Depth_of_Binary_Tree {
 	 */
 	
 	
+	/**
+	 * Here I adopt the DF algorithm
+	 * 
+	 */
 	private static int maxDepth(TreeNode node){
 		
 		if (node == null) {

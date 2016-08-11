@@ -15,7 +15,7 @@ Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and
 
 
 ### Leetcode.com
-* [ReverseVowels](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/ReverseVowels.java)		*(16.8.3)*
+* [Reverse Vowels](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/ReverseVowels.java)		*(16.8.3)*
 * [Linked-list Cycle I](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Linked_list_cycle_1.java)	*(16.8.3)*
 * [Linked-list Cycle II](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Linked_list_cycle_2.java)	*(16.8.3)*
 * [Nim Game](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Nim_game.java)		*(16.8.4)*
@@ -24,3 +24,4 @@ Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and
 * [Add Digits](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Add_Digits.java)		*(16.8.5)*
 * [Happy Number](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Happy_Number.java)	*(16.8.5)*
 * [Max Depth of Binary Tree](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Max_Depth_of_Binary_Tree.java)	*(16.8.5)*
+* [Ransom Note](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Ransom_Note.java)		*(16.8.11)*
