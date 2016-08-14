@@ -25,3 +25,5 @@ Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and
 * [Happy Number](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Happy_Number.java)	*(16.8.5)*
 * [Max Depth of Binary Tree](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Max_Depth_of_Binary_Tree.java)	*(16.8.5)*
 * [Ransom Note](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Ransom_Note.java)		*(16.8.11)*
+* [Move Zeros](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Move_Zeros.java)		*(16.8.14)*
+
