@@ -1,5 +1,7 @@
 package leetcode;
 
+import leetcode.Node.ListNode;
+
 /**
  * to see if there is a cycle in a linked-list
  */
@@ -13,12 +15,12 @@ public class Linked_list_cycle_1 {
 		ListNode node2 = new ListNode(2, node3);
 		ListNode node1 = new ListNode(1, node2);
 		head.setNext(node1);
-		
+
 		System.out.println(hasCycle(head));
-		
+
 	}
 
-	public static  boolean hasCycle(ListNode head) {
+	public static boolean hasCycle(ListNode head) {
 
 		ListNode slow = head;
 		ListNode fast = head;
@@ -35,25 +37,4 @@ public class Linked_list_cycle_1 {
 		}
 		return false;
 	}
-	
-	static class ListNode{
-		
-		private int val;
-		private ListNode next;
-		public ListNode(int val,ListNode next){
-			this.val = val;
-			this.next = next;
-		}
-		
-		public ListNode(int val) {
-			this.val = val;
-			this.next = null;
-		}
-		
-		public void setNext(ListNode next) {
-			this.next = next;
-		}
-		
-	}
-
 }
