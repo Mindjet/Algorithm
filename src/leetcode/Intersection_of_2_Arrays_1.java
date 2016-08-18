@@ -3,6 +3,14 @@ package leetcode;
 import java.util.Arrays;
 import java.util.HashSet;
 
+/**
+ * Given two arrays, write a function to compute their intersection.
+ * 
+ * Example:
+ * Given nums1 = [1, 2, 2, 1], nums2 = [2, 2], return [2].
+ *
+ */
+
 public class Intersection_of_2_Arrays_1 {
 
 	public static void main(String[] args) {

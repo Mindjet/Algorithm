@@ -1,6 +1,6 @@
 package leetcode;
 
-import leetcode.Node.ListNode;
+import node.ListNode;
 
 /**
  * You are given two linked lists representing two non-negative numbers. The
