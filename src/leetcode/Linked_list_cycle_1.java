@@ -1,6 +1,6 @@
 package leetcode;
 
-import leetcode.Node.ListNode;
+import node.ListNode;
 
 /**
  * to see if there is a cycle in a linked-list
