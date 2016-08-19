@@ -3,8 +3,8 @@ package leetcode;
 import java.util.Arrays;
 
 /**
- * Given a non negative integer number num. For every numbers i in the range 0 ¡Ü
- * i ¡Ü num calculate the number of 1's in their binary representation and return
+ * Given a non negative integer number num. 
+ * For every numbers i in the range 0 <= i <= num calculate the number of 1's in their binary representation and return
  * them as an array.
  * 
  * Example: For num = 5 you should return [0,1,1,2,1,2].
@@ -18,7 +18,9 @@ public class Counting_Bits {
 		System.out.println(Arrays.toString(countBits_1(10)));
 		System.out.println(Arrays.toString(countBits_2(10)));
 
-	}/*
+	}
+	
+	/*
 	 * 0000	0
 	 * 0001	1
 	 * 0010	1
