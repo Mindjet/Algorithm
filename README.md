@@ -15,7 +15,7 @@ Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and
 
 
 ### Leetcode.com
-	<br/>
+
 #### Easy Part
 * [Reverse Vowels](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/ReverseVowels.java)		*(16.8.3)*
 * [Linked-list Cycle I](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Linked_list_cycle_1.java)	*(16.8.3)*
