@@ -35,6 +35,7 @@ Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and
 * [Same Tree](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Same_Tree.java)	*(16.8.19)*
 * [Excel Sheet Column Title](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Excel_Sheet_Column_Title.java)	*(16.8.20)*
 * [String Anagram](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/String_Anagram.java)	*(16.8.21)*
+* [Majority Element](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Majority_Element.java)	*(16.8.22)*
 
 #### Medium Part
 * [Counting Bits](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Counting_Bits.java)	*(16.8.19)*
