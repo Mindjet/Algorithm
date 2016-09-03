@@ -38,6 +38,7 @@ Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and
 * [Majority Element](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Majority_Element.java)	*(16.8.22)*
 * [Single Number](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Single_Number.java)	*(16.9.2)*
 * [Find the Difference](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Find_the_Difference.java)	*(16.9.2)*
+* [First Unique Character](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/First_Unique_Character.java)	*(16.9.3)*
 
 #### Medium Part
 * [Counting Bits](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Counting_Bits.java)	*(16.8.19)*
