@@ -44,6 +44,7 @@ public class Reverse_Linked_List {
 
 		}
 		
+		// do remember to set the tail's next null, or it will be stucked in dead loop. 
 		list.get(0).next = null;
 
 		return list.get(list.size() - 1);
