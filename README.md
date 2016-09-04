@@ -40,6 +40,7 @@ Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and
 * [Find the Difference](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Find_the_Difference.java)	*(16.9.2)*
 * [First Unique Character](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/First_Unique_Character.java)	*(16.9.3)*
 * [Contains Duplicate](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Contains_Duplicate.java)	*(16.9.3)*
+* [Reverse Linked List](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Reverse_Linked_List.java)	*(16.9.4)*
 
 #### Medium Part
 * [Counting Bits](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Counting_Bits.java)	*(16.8.19)*
