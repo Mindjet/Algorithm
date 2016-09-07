@@ -43,6 +43,7 @@ Here I implement some examples from [nowcoder.com](http://www.nowcoder.com/) and
 * [Reverse Linked List](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Reverse_Linked_List.java)	*(16.9.4)*
 * [Power of Three](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Power_of_Three.java)	*(16.9.6)*
 * [Power of Two](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Power_of_Two.java)	*(16.9.6)*
+* [Remove Duplicates From Sorted List](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Remove_Duplicates_From_Sorted_List.java)	*(16.9.8)*
 
 #### Medium Part
 * [Counting Bits](https://github.com/Mindjet/Algorithm/blob/master/src/leetcode/Counting_Bits.java)	*(16.8.19)*
