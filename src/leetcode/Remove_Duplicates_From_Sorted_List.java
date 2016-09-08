@@ -1,7 +1,7 @@
 package leetcode;
 
 import node.ListNode;
-import node.ListNode.ListNodeUtils;
+import node.ListNodeUtils;
 
 /**
  * Given a sorted linked list, delete all duplicates such that each element appear only once.
